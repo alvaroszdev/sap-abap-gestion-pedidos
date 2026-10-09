@@ -1,5 +1,3 @@
-# sap-abap-gestion-pedidos
-Sistema gestor de pedidos de ventas en SAP ABAP: dynpros, ABAP OO, ALV y rangos numéricos
 # Sistema Gestor de Pedidos de Ventas — SAP ABAP
 
 Proyecto final del programa **SAP Full Stack**. Aplicación ABAP para gestionar pedidos de ventas en un almacén pequeño: alta de pedidos con numeración automática, posiciones con precios tomados del maestro de materiales, grabación en base de datos y un listado ALV con filtros.
